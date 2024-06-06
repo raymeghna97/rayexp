@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/810518040.svg)](https://zenodo.org/doi/10.5281/zenodo.11508496)
+
+
+
 ```python
 ##INTRODUCTORY INFORMATION
 
