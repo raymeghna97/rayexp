@@ -5,4 +5,4 @@
 |conversion to units|variable table|final workable table||
 |hydrological year|final workable table|yearly table||
 |what if i write something that is too big to fit in|||
-|![India precipitation map.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fweather.com%2Fen-IN%2Findia%2Fmonsoon%2Fnews%2F2022-04-14-monsoon-2022-forecast-india-to-experience-normal-rainfall-imd&psig=AOvVaw3HerhydTjGf2Tbe-aGpyTQ&ust=1717780418127000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMipjPC8x4YDFQAAAAAdAAAAABAP)|||
+|![India precipitation map.](https://s.w-x.co/util/image/w/in-monsoon_2022_forecast_imd.jpg?crop=16:9&width=980&format=pjpg&auto=webp&quality=60)|||
